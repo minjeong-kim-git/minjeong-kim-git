@@ -9,7 +9,7 @@ I prefer React JS and Python, and nowadays, I'm studying R.
 I hope to develop a computer game someday.
 
 
-## 🥇 My Rank
+## 🥇 My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjeong-kim-git&show_icons=true&theme=radical)
 
 ## ✨ Skills
